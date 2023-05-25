@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  cheese-bot:
+    build: .
+    container_name: cheese-bot
+    env_file:
+      - .env
+    restart: unless-stopped
