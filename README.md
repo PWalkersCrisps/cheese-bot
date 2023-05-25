@@ -6,8 +6,7 @@ Cheese Bot is a Discord bot that provides information about different types of c
 
 The following commands are available:
 
-- `!cheese`: Get a random cheese recommendation.
-- `!cheese <name>`: Search for a specific type of cheese by name.
+- `$cheese`: Get a random cheese recommendation.
 
 ## Installation
 
